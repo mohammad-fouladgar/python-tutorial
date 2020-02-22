@@ -16,8 +16,6 @@ queue.append("Graham")
 squares = [x**2 for x in range(10)]
 # print(squares)
 
-
-
 matrix = [
     [1, 2, 3, 4],
     [5, 6, 7, 8],
